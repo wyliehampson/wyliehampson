@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Wylie! 👋
+
+I'm a graduate student at UC Santa Barbara and I'm in the first ever Masters of Environmental Data Science program! I'm learning to apply my biology background to a new set of data science skills that I am currently working on.
+
+I'm currently learning R and python, as well as much much more!
+
+Fun fact: I've lived in Washington State my whole life so I'm also learning how to adapt into the California lifestyle by doing things like surfing and not wearing raincoats.
 
 <!--
 **wyliehampson/wyliehampson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
