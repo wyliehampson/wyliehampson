@@ -6,6 +6,8 @@ Throughout my program I've learned to see data in a completely new way and it ha
 
 Fun fact: I've lived in Washington State my whole life so I'm also learning how to adapt into the California lifestyle by doing things like surfing and not wearing raincoats.
 
+For more information about me and some thing that I've worked on, check out my personal website here: https://wyliehampson.github.io/
+
 <!--
 **wyliehampson/wyliehampson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
