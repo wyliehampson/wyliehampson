@@ -1,8 +1,8 @@
 ### Hi, I'm Wylie! 👋
 
-I'm a graduate student at UC Santa Barbara and I'm in the first ever Masters of Environmental Data Science program! I'm learning to apply my biology background to a new set of data science skills that I am currently working on.
+I'm a graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and I am a part of their inaugural Masters of Environmental Data Science program! I'm learning to apply my biology background to a new set of data science skills in order to work towards solving the many environemtal problems that I feel so passionatly about.
 
-I'm currently learning R and python, as well as much much more!
+Throughout my program I've learned to see data in a completely new way and it has been so exciting to learn how to work with this data in order to reveal what wasn't seen before.
 
 Fun fact: I've lived in Washington State my whole life so I'm also learning how to adapt into the California lifestyle by doing things like surfing and not wearing raincoats.
 
