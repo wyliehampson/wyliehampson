@@ -1,10 +1,8 @@
 ### Hi, I'm Wylie! 👋
 
-I'm a graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and I am a part of their inaugural Masters of Environmental Data Science program! I'm learning to apply my biology background to a new set of data science skills in order to work towards solving the many environemtal problems that I feel so passionatly about.
+I am an environmentally focused data scientist who is just now beginning my data science career. I recently got my Masters of Environmental Data Science degree from the Bren School of Environmental Science and Management at UC Santa Barbara, and I was part of the inaugural class for that program. Over the last year I have learned new ways of looking at the world and how data can have such a huge effect on it. I think data science can have giant impacts on helping us overcome some of the ominous environmental problems that we are all facing, and by becoming an environmental data scientist, I hope to make significant contributions to solving those problems. I recently started a new data fellowship that focuses on using data to help policy makers manage the Colorado River. So far it has been an eye opening and rewarding position. Many of these skills I am still relatively new to, but I'm looking forward to learning and growing as a data scientist as my career unfolds. 
 
-Throughout my program I've learned to see data in a completely new way and it has been so exciting to learn how to work with this data in order to reveal what wasn't seen before.
-
-Fun fact: I've lived in Washington State my whole life so I'm also learning how to adapt into the California lifestyle by doing things like surfing and not wearing raincoats.
+Fun fact: As we're settling into the remote work lifestyle, my partner and I have decided to try a few different cities out by doing month long stays at different places. So you can catch me roaming around the U.S., but you'll have to be quick!
 
 For more information about me and some things that I've worked on, check out my personal website here: https://wyliehampson.github.io/
 
